@@ -37,3 +37,8 @@
    ```sh
    npm run docs:dev
    ```
+
+6. 部署
+   ```shell
+   npm run deploy
+   ```
