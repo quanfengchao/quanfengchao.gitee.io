@@ -1,8 +1,8 @@
 {
-  "name": "quanfengchao.github.io",
+  "name": "quanfengchao.gitee.io",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/quanfengchao/quanfengchao.github.io.git",
+  "repository": "https://gitee.com/quanfengchao/quanfengchao.gitee.io.git",
   "author": "Admin <1023309308@qq.>",
   "license": "MIT",
   "scripts": {
